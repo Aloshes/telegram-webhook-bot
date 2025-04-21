@@ -1,3 +1,4 @@
-flask
-requests
-tinydb
+Flask>=2.0.0
+requests>=2.26.0
+tinydb>=4.5.0
+python-dotenv>=0.19.0  # Optional for local development
